@@ -3,7 +3,7 @@
 <img src="https://uploadkon.ir/uploads/6dbb02_25InShot-20251124-203111550.jpg" width="150" style="border-radius: 50%">
 
 # TRHosseinbarana
-**Python Developer**
+**Python Developer is html dev**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TRHosseinbarana&color=blue)
 
